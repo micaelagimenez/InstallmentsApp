@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Debts</string>
+    <!-- Fragment home -->
+    <string name="home_fragment_add_button">Add</string>
+    <string name="home_fragment_empty_state">Add an item to see it here</string>
+    <!-- Fragment item detail -->
+    <string name="fragment_item_detail_title">Add your purchase</string>
+    <string name="fragment_item_detail_installments">Product\'s name</string>
+    <string name="fragment_item_detail_installments_amount_to_pay">Installments\' price</string>
+    <string name="fragment_item_detail_installments_amount">Installments\' amount</string>
+    <string name="fragment_item_detail_positive_button">Done</string>
+    <string name="fragment_item_detail_negative_button">Cancel</string>
+</resources>
